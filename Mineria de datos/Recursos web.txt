@@ -1,0 +1,9 @@
+#Recursos
+
+Estructuras de datos R:
+
+http://halweb.uc3m.es/esp/Personal/personas/jmmarin/esp/ManualR/intro_estructurasdedatos.html
+
+Estadistica descriptiva con R:
+
+http://www.etsii.upm.es/ingor/estadistica/Grado/rESTDESC.pdf

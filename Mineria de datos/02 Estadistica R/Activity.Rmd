@@ -1,0 +1,103 @@
+---
+title: "Estadistica con R"
+author: "Sebastian Barcenas R & Jorge Torres"
+date: "28 de agosto de 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## DataFrame Example
+
+Cargamos los datos:
+
+```{r}
+
+datos = data.frame(read.csv(file="conjunto de datos.csv", dec=".", header= FALSE, sep=","))
+
+edad = datos$V1
+potasio = datos$V5
+sodio = datos$V6
+
+```
+
+## Cantidad de repeticiones por dato
+
+Edad V1
+
+```{r}
+#Edad
+table(edad)
+#Potasio
+table(potasio)
+#Sodio
+table(sodio)
+    
+```
+ 
+## Media
+ 
+```{r}
+
+#Edad
+mean(edad)
+#Potasio
+mean(potasio)
+#Sodio
+mean(sodio)
+
+    
+``` 
+ 
+## Sort
+ 
+```{r}
+
+#Edad
+sort(edad)
+#Potasio
+sort(potasio)
+#Sodio
+sort(sodio)
+
+    
+``` 
+
+## moda
+
+ 
+```{r}
+
+#Edad
+edad[max(table(edad))]
+#Potasio
+potasio[max(table(potasio))]
+#Sodio
+sodio[max(table(sodio ))]
+
+    
+```
+
+## Diagramas
+
+ 
+```{r}
+
+boxplot(edad)
+boxplot(sodio)
+boxplot(potasio)
+
+    
+```
+
+## Diagrama edad con respecto al sexo
+
+```{r}
+
+boxplot(edad~datos$V2)
+
+    
+```

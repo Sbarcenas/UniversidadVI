@@ -1,0 +1,59 @@
+---
+title: "Medidas de dispersión"
+author: "Sebastian Bárcenas"
+date: "4/9/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+#Todos los ejemplos se trabajaran con el conjunto de datos x que representara
+# la edad de un conjunto de personas
+
+datos = data.frame(read.csv(file="conjunto de datos.csv", dec=".", header= FALSE, sep=","))
+
+x = datos$V1
+
+
+```
+
+Son parámetros estadísticos que indican como se alejan los datos respecto de la media aritmética. Sirven como indicador de la variabilidad de los datos. Las medidas de dispersión más utilizadas son el rango, la desviación estándar y la varianza. 
+
+## Rango
+
+Indica la dispersión entre los valores extremos de una variable. se calcula como la diferencia entre el mayor y el menor valor de la variable. Se denota como R.
+
+```{r}
+range(x)
+
+```
+
+## Rango intercuartilico
+
+se le llama rango intercuartílico o rango intercuartil, a la diferencia entre el tercer y el primer cuartil de una distribución. Es una medida de la dispersión estadística.
+
+```{r}
+IQR(x)
+```
+
+## Varianza
+
+Es otro parámetro utilizado para medir la dispersión de los valores de una variable respecto a la media. Corresponde a la media aritmética de los cuadrados de las desviaciones respecto a la media.
+
+```{r}
+var(x)
+```
+
+## Desviación tipica
+
+Es una medida que se usa para cuantificar la variación o dispersión de un conjunto de datos numéricos.
+
+
+```{r}
+sd(x)
+```
+
