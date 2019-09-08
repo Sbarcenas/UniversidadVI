@@ -1,0 +1,101 @@
+---
+title: "Informe"
+author: "Sbarcenas"
+date: "21 de agosto de 2019"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+## readcsv
+
+Para este primer apartado vamos a realizar la carga de un csv, mediante el codigo:
+
+
+```{r setup, include= TRUE}
+library(knitr)
+
+obesidad=data.frame(read.csv(file="base de datos obesidad.csv",dec =",",header = TRUE, sep = ";"))
+
+kable(obesidad[1:10,],caption = "A knir table")
+
+```
+
+
+## cbind
+
+Para este apartado vamos a realizar un cbind entre 2 archivos csv, de los cuales sabemos,
+que el conjunto de datos esta compuesto por decimales separados por coma(,) o enteros.
+
+
+```{r cbind1, include= TRUE}
+
+
+cbind1=data.frame(read.csv(file="cbind1.csv",dec =",",header = TRUE, sep = ";"))
+
+print(cbind1)
+
+```
+
+A continuación vamos a realizar la carga de otro archivo para realizar el c bind.
+
+```{r cbind2, include= TRUE}
+
+
+cbind2=data.frame(read.csv(file="cbind2.csv",dec =",",header = TRUE, sep = ";"))
+
+print(cbind2)
+
+```
+
+### Aplicación de cbind entre los 2 archivos que creamos anteriormente
+
+```{r cbind, include= TRUE}
+
+
+cbind=cbind(cbind1,cbind2)
+
+print(cbind)
+
+```
+
+
+
+## rbind
+
+Para este apartado vamos a realizar un rbind entre 2 archivos csv, de los cuales sabemos,
+que el conjunto de datos esta compuesto un registo de datos no decimales, de uso que buscan,
+describir personas:
+
+
+```{r rbind1, include= TRUE}
+
+
+rbind1=data.frame(read.csv(file="rbind1.csv",dec =",",header = TRUE, sep = ";"))
+
+print(rbind1)
+
+```
+
+A continuación vamos a realizar la carga de otro archivo para realizar el rbind.
+
+```{r rbind2, include= TRUE}
+
+
+rbind2=data.frame(read.csv(file="rbind2.csv",dec =",",header = TRUE, sep = ";"))
+
+print(rbind2)
+
+```
+
+### Aplicación de cbind entre los 2 archivos que creamos anteriormente
+
+```{r rbind, include= TRUE}
+
+
+rbind=rbind(rbind1,rbind2)
+
+print(rbind)
+
+```

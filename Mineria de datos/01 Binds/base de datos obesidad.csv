@@ -1,0 +1,256 @@
+Sexo;Edad;Estatura;Peso;Antecednete;CAD;CVER;Cprin;Mer;Fuma;Agua;Calorias;Deporte;RedesS;Alc;Cuerpo;Enfer;Trans;IMC;Vulnerable
+Mujer;21;1,62;64;Sí;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;24,39;NO
+Mujer;21;1,52;56;Sí;No;Siempre;3;Aveces;Sí;Más de 2 litros diario;Sí;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;24,24;NO
+Hombre;23;1,8;77;Sí;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Semanalmente;Delgado;No;Transporte publico;23,77;NO
+Hombre;18;1,8;87;No;No;Siempre;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Semanalmente;Promedio;No;Caminar;26,85;SOBREPESO
+Hombre;22;1,78;90;No;No;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Delgado;No;Transporte publico;28,34;SOBREPESO
+Hombre;18;1,62;53;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Automóvil;20,2;NO
+Mujer;23;1,5;55;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Motocicleta;24,44;NO
+Hombre;22;1,64;53;No;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Transporte publico;19,71;NO
+Hombre;24;1,78;64;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Semanalmente;Promedio;No;Transporte publico;20,2;NO
+Hombre;22;1,72;68;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;22,99;NO
+Hombre;18;1,85;105;Sí;Sí;Siempre;3;Casi siempre;No;Más de 2 litros diario;No;3 ó 4 días;Más de 5 hrs;Con poca frecuencia;Obeso;No;Transporte publico;30,68;OBESIDAD I
+Mujer;21;1,72;80;Sí;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;Sí;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;27,04;SOBREPESO
+Hombre;22;1,65;56;No;No;Siempre;3;Aveces;No;Más de 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;20,57;NO
+Hombre;22;1,8;99;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Semanalmente;Obeso;No;Automóvil;30,56;OBESIDAD I
+Hombre;23;1,77;60;Sí;Sí;Siempre;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;19,15;NO
+Mujer;22;1,7;66;Sí;No;Siempre;3;Siempre;No;1 a 2 litros diario;Sí;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,84;NO
+Hombre;18;1,93;102;Sí;Sí;Aveces;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;27,38;SOBREPESO
+Mujer;18;1,53;78;No;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Automóvil;33,32;OBESIDAD I
+Mujer;19;1,71;82;Sí;Sí;Siempre;Más de tres;Casi siempre;Sí;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;Si hipertiroidismo;Automóvil;28,04;SOBREPESO
+Mujer;23;1,65;70;Sí;No;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;epilepsia;Transporte publico;25,71;SOBREPESO
+Hombre;22;1,65;80;Sí;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;Más de 5 hrs;No consumo bebidas alcholicas;Promedio;No;Caminar;29,38;SOBREPESO
+Mujer;23;1,69;87;Sí;Sí;Siempre;de 1 a 2;Aveces;Sí;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Automóvil;30,46;OBESIDAD I
+Mujer;22;1,65;60;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Automóvil;22,04;NO
+Mujer;22;1,6;82;Sí;Sí;Casi nunca;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;Más de 5 hrs;Con poca frecuencia;Muy obeso;Obesity level two;Transporte publico;32,03;OBESIDAD I
+Hombre;21;1,85;68;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;19,87;NO
+Mujer;20;1,58;66,5;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Automóvil;26,64;SOBREPESO
+Hombre;20;1,6;50;Sí;No;Aveces;Más de tres;Casi siempre;Sí;1 a 2 litros diario;No;5 ó 6 días;Más de 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;19,53;NO
+Hombre;21;1,7;65;Sí;Sí;Aveces;de 1 a 2;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;Más de 5 hrs;Diario;Delgado;No;Caminar;22,49;NO
+Mujer;23;1,6;52;No;Sí;Aveces;Más de tres;Casi siempre;No;1 a 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Automóvil;20,31;NO
+Hombre;19;1,75;76;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;Sí;5 ó 6 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;24,82;NO
+Hombre;23;1,68;70;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;Más de 5 hrs;Semanalmente;Promedio;No;Caminar;24,8;NO
+Hombre;18;1,77;83;No;Sí;Casi nunca;Más de tres;Casi siempre;No;Más de 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;Síndrome de gilberth;Motocicleta;26,49;SOBREPESO
+Mujer;19;1,58;68;Sí;No;Aveces;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;27,24;SOBREPESO
+Mujer;24;1,77;76;No;No;Aveces;3;Aveces;No;Más de 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Caminar;24,26;NO
+Hombre;21;1,79;90;No;No;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Obeso;No;Transporte publico;28,09;SOBREPESO
+Hombre;22;1,65;62;No;Sí;Aveces;Más de tres;Casi siempre;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Transporte publico;22,77;NO
+Mujer;21;1,5;65;Sí;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;Más de 5 hrs;Con poca frecuencia;Obeso;No;Transporte publico;28,89;SOBREPESO
+Mujer;22;1,56;49;No;Sí;Aveces;3;Aveces;No;Menos de 1 litro diario;Sí;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Caminar;20,13;NO
+Mujer;21;1,6;48;No;Sí;Aveces;3;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Muy delgado;No;Transporte publico;18,75;NO
+Hombre;23;1,65;67;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;24,61;NO
+Mujer;21;1,75;88;Sí;Sí;Aveces;3;Aveces;No;Más de 2 litros diario;No;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Obeso;No;Transporte publico;28,73;SOBREPESO
+Mujer;21;1,67;75;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Obeso;No;Transporte publico;26,89;SOBREPESO
+Hombre;23;1,68;60;No;No;Aveces;Más de tres;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Caminar;21,26;NO
+Mujer;21;1,66;64;Sí;Sí;Casi nunca;3;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;23,23;NO
+Hombre;21;1,66;62;Sí;Sí;Aveces;3;Aveces;Sí;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Semanalmente;Promedio;No;Transporte publico;22,5;NO
+Hombre;21;1,81;80;No;No;Casi nunca;3;Nunca;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;24,42;NO
+Mujer;21;1,53;65;Sí;No;Aveces;3;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;27,77;SOBREPESO
+Hombre;21;1,82;72;Sí;Sí;Casi nunca;3;Casi siempre;No;Más de 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;21,74;NO
+Hombre;21;1,75;72;Sí;Sí;Casi nunca;3;Casi siempre;No;Más de 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;23,51;NO
+Mujer;20;1,66;60;Sí;No;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Caminar;21,77;NO
+Mujer;21;1,55;50;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;20,81;NO
+Mujer;21;1,61;54,5;Sí;Sí;Siempre;3;Aveces;No;Más de 2 litros diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Promedio;No;Caminar;21,03;NO
+Mujer;20;1,5;44;No;Sí;Aveces;3;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Automóvil;19,56;NO
+Mujer;23;1,64;52;No;Sí;Siempre;de 1 a 2;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;Más de 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;19,33;NO
+Mujer;23;1,63;55;Sí;No;Siempre;3;Nunca;No;1 a 2 litros diario;Sí;3 ó 4 días;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;20,7;NO
+Mujer;22;1,6;55;No;No;Siempre;Más de tres;Siempre;No;Más de 2 litros diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;21,48;NO
+Hombre;23;1,68;62;No;No;Aveces;Más de tres;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Delgado;No;Automóvil;21,97;NO
+Hombre;22;1,7;70;Sí;Sí;Aveces;3;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Promedio;No;Automóvil;24,22;NO
+Hombre;21;1,64;65;Sí;No;Aveces;3;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;24,17;NO
+Mujer;25;1,65;67;Sí;Sí;Siempre;de 1 a 2;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Obeso;No;Caminar;24,61;NO
+Hombre;20;1,76;55;Sí;Sí;Aveces;Más de tres;Aveces;No;Más de 2 litros diario;No;3 ó 4 días;Más de 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;17,76;NO
+Mujer;21;1,55;49;Sí;Sí;Aveces;3;Aveces;No;Más de 2 litros diario;No;5 ó 6 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;20,4;NO
+Hombre;20;1,65;58;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;21,3;NO
+Hombre;22;1,67;62;No;Sí;Aveces;de 1 a 2;Nunca;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,23;NO
+Hombre;22;1,68;55;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;Más de 5 hrs;Con poca frecuencia;Delgado;No;Automóvil;19,49;NO
+Mujer;21;1,66;57;Sí;Sí;Aveces;3;Casi siempre;No;Menos de 1 litro diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;20,69;NO
+Mujer;21;1,62;69;Sí;Sí;Casi nunca;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;26,29;SOBREPESO
+Hombre;23;1,7;61;Sí;No;Siempre;3;Nunca;No;Más de 2 litros diario;Sí;No realizo actividad física;Más de 5 hrs;No consumo bebidas alcholicas;Muy delgado;No;Motocicleta;21,11;NO
+Hombre;23;1,65;95;Sí;Sí;Aveces;3;Siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;Semanalmente;Muy obeso;No;Automóvil;34,89;OBESIDAD I
+Hombre;19;1,76;112;Sí;Sí;Casi nunca;3;Nunca;Sí;1 a 2 litros diario;Sí;No realizo actividad física;0 a 2 hrs;Semanalmente;Obeso;No;Automóvil;36,16;OBESIDAD II
+Hombre;19;1,85;65;No;No;Aveces;3;Aveces;No;Más de 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Bicicleta;18,99;NO
+Hombre;24;1,7;85;Sí;Sí;Aveces;3;Casi siempre;No;Más de 2 litros diario;No;No realizo actividad física;3 a 5 hrs;Semanalmente;Muy obeso;No;Transporte publico;29,41;SOBREPESO
+Mujer;23;1,63;45;Sí;No;Siempre;3;Aveces;No;Más de 2 litros diario;Sí;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;16,94;NO
+Mujer;24;1,6;45;No;No;Aveces;3;Nunca;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;17,58;NO
+Mujer;24;1,7;80;Sí;Sí;Aveces;3;Aveces;No;Más de 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;27,68;SOBREPESO
+Mujer;23;1,65;90;Sí;Sí;Aveces;3;Aveces;Sí;Más de 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Muy obeso;No;Transporte publico;33,06;OBESIDAD I
+Hombre;23;1,65;60;No;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,04;NO
+Mujer;19;1,63;58;No;No;Siempre;3;Aveces;No;1 a 2 litros diario;Sí;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;21,83;NO
+Hombre;19;1,8;91;Sí;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Muy obeso;No;Transporte publico;28,09;SOBREPESO
+Hombre;23;1,67;85,5;Sí;Sí;Aveces;3;Siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Muy obeso;No;Transporte publico;30,66;OBESIDAD I
+Mujer;19;1,6;45;No;No;Siempre;3;Nunca;No;Más de 2 litros diario;Sí;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Caminar;17,58;NO
+Hombre;25;1,7;83;Sí;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Obeso;No;Transporte publico;28,72;SOBREPESO
+Hombre;23;1,65;58,5;No;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;21,49;NO
+Hombre;21;1,85;83;Sí;Sí;Aveces;de 1 a 2;Casi siempre;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;24,25;NO
+Hombre;19;1,82;87;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;26,26;SOBREPESO
+Mujer;22;1,65;65;Sí;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;Sí;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Automóvil;23,88;NO
+Mujer;18;1,7;78;Sí;Sí;Siempre;3;Aveces;No;Menos de 1 litro diario;No;3 ó 4 días;3 a 5 hrs;Semanalmente;Promedio;No;Automóvil;26,99;SOBREPESO
+Mujer;25;1,63;93;No;No;Siempre;Más de tres;Siempre;No;Menos de 1 litro diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Muy obeso;No;Transporte publico;35;OBESIDAD II
+Mujer;20;1,61;64;Sí;No;Siempre;3;Siempre;No;1 a 2 litros diario;Sí;No realizo actividad física;3 a 5 hrs;Semanalmente;Promedio;No;Transporte publico;24,69;NO
+Hombre;24;1,78;84;Sí;No;Siempre;Más de tres;Casi siempre;No;Más de 2 litros diario;Sí;5 ó 6 días;0 a 2 hrs;Semanalmente;Promedio;No;Caminar;26,51;SOBREPESO
+Mujer;20;1,6;57;No;No;Siempre;3;Siempre;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Caminar;22,27;NO
+Mujer;24;1,6;48;No;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;18,75;NO
+Hombre;18;1,7;70;Sí;No;Siempre;de 1 a 2;Casi siempre;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Semanalmente;Promedio;No;Transporte publico;24,22;NO
+Mujer;23;1,66;60;Sí;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;21,77;NO
+Mujer;21;1,52;42;No;No;Siempre;de 1 a 2;Casi siempre;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Muy delgado;No;Transporte publico;18,18;NO
+Mujer;21;1,52;42;No;No;Siempre;de 1 a 2;Casi siempre;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Muy delgado;No;Transporte publico;18,18;NO
+Hombre;23;1,72;70;No;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;3 a 5 hrs;Semanalmente;Delgado;No;Transporte publico;23,66;NO
+Mujer;21;1,69;63;No;Sí;Siempre;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,06;NO
+Hombre;22;1,7;66;Sí;No;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;22,98;NO
+Mujer;21;1,55;57;No;Sí;Aveces;Más de tres;Casi siempre;No;1 a 2 litros diario;Sí;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Automóvil;23,73;NO
+Mujer;22;1,65;58;Sí;Sí;Siempre;Más de tres;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;21,3;NO
+Mujer;21;1,45;62;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;29,49;SOBREPESO
+Mujer;21;1,56;80;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Obeso;No;Automóvil;32,87;OBESIDAD I
+Mujer;25;1,57;55;No;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,31;NO
+Mujer;25;1,57;55;No;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,31;NO
+Hombre;22;1,88;90;Sí;Sí;Aveces;3;Siempre;No;Menos de 1 litro diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Promedio;No;Automóvil;25,46;SOBREPESO
+Hombre;22;1,75;95;Sí;No;Aveces;3;Aveces;No;Más de 2 litros diario;No;5 ó 6 días;Más de 5 hrs;No consumo bebidas alcholicas;Obeso;No;Caminar;31,02;OBESIDAD I
+Mujer;21;1,65;88;Sí;Sí;Siempre;de 1 a 2;Aveces;No;Más de 2 litros diario;No;3 ó 4 días;3 a 5 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;32,32;OBESIDAD I
+Hombre;21;1,75;75;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Promedio;Nel;Transporte publico;24,49;NO
+Mujer;22;1,58;58;Sí;Sí;Aveces;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;23,23;NO
+Mujer;18;1,56;51;Sí;Sí;Aveces;Más de tres;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Transporte publico;20,96;NO
+Mujer;22;1,5;49;Sí;No;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Caminar;21,78;NO
+Mujer;19;1,61;62;Sí;Sí;Siempre;de 1 a 2;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Semanalmente;Obeso;No;Transporte publico;23,92;NO
+Mujer;25;1,75;57;Sí;Sí;Siempre;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;18,61;NO
+Mujer;25;1,65;86;Sí;Sí;Siempre;3;Aveces;No;Menos de 1 litro diario;No;5 ó 6 días;Más de 5 hrs;No consumo bebidas alcholicas;Obeso;No;Caminar;31,59;OBESIDAD I
+Mujer;25;1,7;85;Sí;No;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Obeso;Pie plaNo, si es que es considerado crónico;Transporte publico;29,41;SOBREPESO
+Mujer;21;1,56;52;Sí;Sí;Siempre;Más de tres;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;Más de 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;21,37;NO
+Hombre;23;1,62;53;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;20,2;NO
+Mujer;19;1,63;76;Sí;No;Siempre;3;Casi siempre;Sí;Más de 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Automóvil;28,6;SOBREPESO
+Mujer;18;1,67;75;Sí;Sí;Aveces;3;Casi siempre;Sí;1 a 2 litros diario;No;No realizo actividad física;Más de 5 hrs;No consumo bebidas alcholicas;Obeso;No;Caminar;26,89;SOBREPESO
+Hombre;23;1,87;95;Sí;Sí;Casi nunca;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;Más de 5 hrs;Semanalmente;Obeso;No;Transporte publico;27,17;SOBREPESO
+Hombre;21;1,75;50;Sí;No;Siempre;Más de tres;Casi siempre;No;Menos de 1 litro diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No ;Caminar;16,33;NO
+Hombre;24;1,66;67;Sí;Sí;Siempre;de 1 a 2;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;24,31;NO
+Hombre;23;1,76;90;No;Sí;Siempre;3;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;29,05;SOBREPESO
+Hombre;18;1,75;80;Sí;Sí;Aveces;3;Siempre;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Semanalmente;Obeso;No;Transporte publico;26,12;SOBREPESO
+Hombre;19;1,67;68;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;24,38;NO
+Mujer;19;1,65;61;No;Sí;Siempre;de 1 a 2;Aveces;No;Más de 2 litros diario;Sí;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,41;NO
+Hombre;20;1,72;70;Sí;Sí;Siempre;3;Casi siempre;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;23,66;NO
+Hombre;18;1,7;78;No;Sí;Siempre;3;Aveces;No;Más de 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Semanalmente;Promedio;No;Transporte publico;26,99;SOBREPESO
+Mujer;20;1,58;53;Sí;Sí;Aveces;Más de tres;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;21,23;NO
+Hombre;23;1,62;58;No;No;Aveces;3;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;22,1;NO
+Mujer;19;1,65;56;Sí;Sí;Siempre;3;Casi siempre;Sí;Más de 2 litros diario;Sí;1 ó 2 días;Más de 5 hrs;Semanalmente;Promedio;No;Transporte publico;20,57;NO
+Mujer;21;1,65;66;No;Sí;Siempre;3;Siempre;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Semanalmente;Promedio;No;Transporte publico;24,24;NO
+Hombre;19;1,77;109;Sí;Sí;Siempre;3;Aveces;No;Menos de 1 litro diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Obeso;Obesidad;Automóvil;34,79;OBESIDAD I
+Hombre;24;1,7;75;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Obeso;No;Automóvil;25,95;SOBREPESO
+Hombre;25;1,79;72;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;22,47;NO
+Hombre;22;1,6;80;Sí;No;Aveces;3;Aveces;Sí;Más de 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Motocicleta;31,25;OBESIDAD I
+Hombre;19;1,76;75;Sí;No;Siempre;3;Siempre;No;Más de 2 litros diario;Sí;5 ó 6 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Bicicleta;24,21;NO
+Hombre;25;1,7;68;No;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;23,53;NO
+Hombre;23;1,89;65;Sí;Sí;Siempre;3;Casi siempre;No;Más de 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;18,2;NO
+Hombre;25;1,87;66;No;Sí;Siempre;3;Siempre;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Semanalmente;Delgado;No;Transporte publico;18,87;NO
+Hombre;23;1,74;93,5;No;Sí;Aveces;3;Casi siempre;Sí;Menos de 1 litro diario;No;1 ó 2 días;3 a 5 hrs;Semanalmente;Obeso;No;Automóvil;30,88;OBESIDAD I
+Mujer;20;1,68;75;No;Sí;Siempre;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Automóvil;26,57;SOBREPESO
+Hombre;22;1,61;67;Sí;No;Aveces;Más de tres;Aveces;No;Más de 2 litros diario;Sí;3 ó 4 días;Más de 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;25,85;SOBREPESO
+Hombre;21;1,62;70;No;Sí;Aveces;de 1 a 2;Nunca;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;26,67;SOBREPESO
+Mujer;24;1,56;51;No;No;Siempre;3;Casi siempre;No;1 a 2 litros diario;No;3 ó 4 días;Más de 5 hrs;Semanalmente;Promedio;No;Transporte publico;20,96;NO
+Mujer;21;1,63;80;Sí;No;Siempre;3;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Automóvil;30,11;OBESIDAD I
+Mujer;18;1,6;61;No;Sí;Siempre;3;Siempre;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Delgado;No;Automóvil;23,83;NO
+Mujer;19;1,67;90;Sí;Sí;Siempre;de 1 a 2;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Muy obeso;OVARIO POLIQUISTICO ;Automóvil;32,27;OBESIDAD I
+Hombre;25;1,78;78;Sí;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;24,62;NO
+Mujer;19;1,62;59;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Automóvil;22,48;NO
+Mujer;21;1,5;60;Sí;Sí;Aveces;de 1 a 2;Siempre;Sí;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;hipotiroidismo;Automóvil;26,67;SOBREPESO
+Hombre;20;1,69;84;Sí;No;Aveces;3;Aveces;No;Más de 2 litros diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Automóvil;29,41;SOBREPESO
+Hombre;22;1,74;94;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Obeso;No;Transporte publico;31,05;OBESIDAD I
+Hombre;21;1,62;70;No;Sí;Aveces;de 1 a 2;Nunca;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;26,67;SOBREPESO
+Mujer;19;1,68;63;Sí;Sí;Siempre;de 1 a 2;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Automóvil;22,32;NO
+Mujer;20;1,53;45;Sí;No;Siempre;3;Casi siempre;No;Menos de 1 litro diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;HIPOTIROIDISMO;Automóvil;19,22;NO
+Hombre;21;1,67;60;Sí;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;21,51;NO
+Mujer;22;1,55;62;Sí;No;Siempre;3;Aveces;No;Más de 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Automóvil;25,81;SOBREPESO
+Hombre;18;1,64;78;Sí;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Semanalmente;Obeso;No;Automóvil;29;SOBREPESO
+Hombre;20;1,83;72;Sí;No;Siempre;3;Aveces;Sí;Menos de 1 litro diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;21,5;NO
+Hombre;24;1,65;80;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Automóvil;29,38;SOBREPESO
+Mujer;21;1,63;60;Sí;Sí;Siempre;3;Siempre;Sí;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,58;NO
+Mujer;24;1,55;75;Sí;Sí;Siempre;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Obeso;No;Automóvil;31,22;OBESIDAD I
+Hombre;25;1,89;75;No;No;Siempre;3;Casi siempre;No;1 a 2 litros diario;Sí;5 ó 6 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;21;NO
+Hombre;20;1,77;85;Sí;No;Siempre;3;Casi siempre;No;Más de 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Automóvil;27,13;SOBREPESO
+Hombre;19;1,92;130;Sí;No;Aveces;3;Aveces;Sí;Menos de 1 litro diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Obeso;No;Transporte publico;35,26;OBESIDAD II
+Mujer;18;1,74;72;Sí;No;Siempre;3;Siempre;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Delgado;No;Automóvil;23,78;NO
+Hombre;20;1,65;80;Sí;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;Más de 5 hrs;No consumo bebidas alcholicas;Promedio;No;Caminar;29,38;SOBREPESO
+Mujer;22;1,73;79;Sí;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;26,4;SOBREPESO
+Mujer;23;1,63;77;Sí;Sí;Aveces;3;Casi siempre;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;diabetes;Automóvil;28,98;SOBREPESO
+Hombre;22;1,72;82;No;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;27,72;SOBREPESO
+Hombre;18;1,6;58;Sí;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,66;NO
+Mujer;23;1,65;59;No;No;Siempre;de 1 a 2;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;Más de 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;21,67;NO
+Hombre;18;1,74;64;No;No;Siempre;3;Aveces;No;1 a 2 litros diario;Sí;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;21,14;NO
+Mujer;21;1,64;60;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;22,23;NO
+Mujer;18;1,57;48;Sí;Sí;Siempre;de 1 a 2;Siempre;No;Menos de 1 litro diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;19,47;NO
+Hombre;22;1,84;84;Sí;Sí;Siempre;3;Casi siempre;No;1 a 2 litros diario;Sí;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Transporte publico;24,81;NO
+Hombre;18;1,91;84;Sí;Sí;Siempre;3;Casi siempre;Sí;1 a 2 litros diario;No;3 ó 4 días;Más de 5 hrs;Semanalmente;Delgado;migraña ;Transporte publico;23,03;NO
+Mujer;18;1,58;48;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;19,23;NO
+Mujer;23;1,68;67;Sí;Sí;Aveces;3;Casi siempre;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;23,74;NO
+Mujer;22;1,68;52;No;Sí;Siempre;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;18,42;NO
+Mujer;23;1,48;60;Sí;Sí;Aveces;de 1 a 2;Aveces;Sí;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;27,39;SOBREPESO
+Hombre;21;1,62;70;No;Sí;Aveces;de 1 a 2;Nunca;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;26,67;SOBREPESO
+Mujer;19;1,62;68;No;No;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;Migraña;Automóvil;25,91;SOBREPESO
+Hombre;21;1,78;96;Sí;No;Aveces;3;Aveces;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Semanalmente;Obeso;No;Automóvil;30,3;OBESIDAD I
+Hombre;25;1,78;98;Sí;No;Aveces;3;Aveces;No;Más de 2 litros diario;No;5 ó 6 días;Más de 5 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;30,93;OBESIDAD I
+Hombre;20;1,78;105;Sí;Sí;Siempre;de 1 a 2;Nunca;No;Más de 2 litros diario;No;5 ó 6 días;3 a 5 hrs;Semanalmente;Obeso;No;Automóvil;33,14;OBESIDAD I
+Mujer;20;1,63;62;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;23,34;NO
+Hombre;20;1,6;56;No;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;21,88;NO
+Hombre;18;1,75;80;Sí;Sí;Siempre;de 1 a 2;Casi siempre;Sí;1 a 2 litros diario;Sí;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;26,12;SOBREPESO
+Hombre;20;1,83;85;Sí;No;Siempre;3;Aveces;No;Más de 2 litros diario;Sí;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Automóvil;25,38;SOBREPESO
+Hombre;20;1,78;68;No;No;Aveces;de 1 a 2;Casi siempre;No;Más de 2 litros diario;Sí;3 ó 4 días;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;21,46;NO
+Mujer;23;1,6;83;Sí;Sí;Siempre;3;Casi siempre;No;Más de 2 litros diario;No;5 ó 6 días;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;32,42;OBESIDAD I
+Hombre;19;1,8;85;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Caminar;26,23;SOBREPESO
+Hombre;22;1,75;74;Sí;No;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;Más de 5 hrs;Con poca frecuencia;Promedio;No;Bicicleta;24,16;NO
+Hombre;22;1,75;118;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Bicicleta;38,53;OBESIDAD II
+Mujer;18;1,59;40;Sí;Sí;Aveces;de 1 a 2;Casi siempre;No;Menos de 1 litro diario;No;No realizo actividad física;Más de 5 hrs;No consumo bebidas alcholicas;Delgado;Epilepcia;Transporte publico;15,82;NO
+Mujer;23;1,66;60;Sí;Sí;Aveces;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;21,77;NO
+Mujer;23;1,63;83;Sí;No;Siempre;de 1 a 2;Aveces;Sí;Más de 2 litros diario;No;1 ó 2 días;Más de 5 hrs;Con poca frecuencia;Obeso;No;Transporte publico;31,24;OBESIDAD I
+Mujer;22;1,54;80;Sí;Sí;Aveces;3;Siempre;No;Menos de 1 litro diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Obeso;No;Automóvil;33,73;OBESIDAD I
+Mujer;18;1,56;102;Sí;Sí;Siempre;3;Aveces;Sí;Menos de 1 litro diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Obeso;No;Transporte publico;41,91;OBESIDAD III
+Hombre;18;1,69;90;Sí;No;Aveces;3;Aveces;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Obeso;No;Automóvil;31,51;OBESIDAD I
+Hombre;18;1,83;71;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;Más de 5 hrs;No consumo bebidas alcholicas;Promedio;No;Automóvil;21,2;NO
+Mujer;23;1,6;78;Sí;Sí;Aveces;de 1 a 2;Aveces;Sí;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Semanalmente;Obeso;No;Transporte publico;30,47;OBESIDAD I
+Hombre;19;1,75;100;Sí;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;32,65;OBESIDAD I
+Hombre;19;1,75;73;Sí;No;Aveces;3;Nunca;No;1 a 2 litros diario;Sí;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Caminar;23,84;NO
+Mujer;22;1,69;65;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,76;NO
+Hombre;21;1,62;70;No;Sí;Aveces;de 1 a 2;Nunca;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;26,67;SOBREPESO
+Mujer;22;1,69;65;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,76;NO
+Hombre;20;1,8;114;Sí;Sí;Aveces;3;Casi siempre;No;1 a 2 litros diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;35,19;OBESIDAD II
+Mujer;21;1,63;51;No;Sí;Aveces;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;19,2;NO
+Mujer;24;1,5;63;Sí;No;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;28;SOBREPESO
+Hombre;21;1,8;62;Sí;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;19,14;NO
+Hombre;21;1,65;53;Sí;Sí;Aveces;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Transporte publico;19,47;NO
+Hombre;21;1,68;70;Sí;Sí;Siempre;3;Aveces;No;Más de 2 litros diario;No;No realizo actividad física;Más de 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;24,8;NO
+Mujer;23;1,6;63;Sí;No;Siempre;3;Casi siempre;No;1 a 2 litros diario;No;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Promedio;Rinitis alergica;Caminar;24,61;NO
+Hombre;21;1,71;75;No;No;Aveces;3;Casi siempre;No;Más de 2 litros diario;Sí;5 ó 6 días;3 a 5 hrs;Semanalmente;Promedio;No;Automóvil;25,65;SOBREPESO
+Mujer;21;1,5;42;Sí;No;Casi nunca;de 1 a 2;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;18,8;NO
+Mujer;21;1,6;68;Sí;Sí;Aveces;3;Aveces;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;26,56;SOBREPESO
+Mujer;21;1,75;78;Sí;No;Aveces;3;Casi siempre;No;1 a 2 litros diario;Sí;No realizo actividad física;Más de 5 hrs;Semanalmente;Promedio;No;Transporte publico;25,47;SOBREPESO
+Hombre;23;1,72;82;Sí;Sí;Aveces;de 1 a 2;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;27,72;SOBREPESO
+Mujer;21;1,72;66,5;Sí;Sí;Siempre;Más de tres;Siempre;No;Más de 2 litros diario;No;No realizo actividad física;Más de 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;22,48;NO
+Mujer;22;1,61;63;Sí;Sí;Siempre;3;Casi siempre;No;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;24,3;NO
+Mujer;23;1,63;82;Sí;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;30,86;OBESIDAD I
+Hombre;25;1,83;121;Sí;No;Siempre;3;Aveces;No;Más de 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Obeso;Constipación;Caminar;36,13;OBESIDAD II
+Mujer;20;1,6;50;No;Sí;Aveces;3;Aveces;No;Menos de 1 litro diario;No;No realizo actividad física;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;No;Automóvil;19,53;NO
+Mujer;24;1,62;58;No;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;22,1;NO
+Mujer;22;1,68;80;No;No;Siempre;3;Aveces;No;Más de 2 litros diario;No;No realizo actividad física;0 a 2 hrs;No consumo bebidas alcholicas;Muy obeso;No;Automóvil;28,34;SOBREPESO
+Hombre;19;1,75;120;Sí;No;Siempre;3;Aveces;No;Más de 2 litros diario;No;No realizo actividad física;Más de 5 hrs;No consumo bebidas alcholicas;Obeso;No;Automóvil;39,18;OBESIDAD II
+Hombre;20;1,9;91;Sí;Sí;Siempre;Más de tres;Aveces;No;Más de 2 litros diario;No;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Caminar;25,21;SOBREPESO
+Mujer;21;1,63;66;Sí;Sí;Siempre;de 1 a 2;Aveces;Sí;Más de 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Con poca frecuencia;Promedio;No;Transporte publico;24,84;NO
+Mujer;23;1,59;50;Sí;No;Siempre;3;Aveces;Sí;Más de 2 litros diario;Sí;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;19,78;NO
+Mujer;20;1,68;77;Sí;No;Siempre;de 1 a 2;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Obeso;No;Automóvil;27,28;SOBREPESO
+Mujer;19;1,59;49;Sí;Sí;Aveces;de 1 a 2;Nunca;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;19,38;NO
+Mujer;19;1,69;70;Sí;No;Aveces;de 1 a 2;Nunca;No;1 a 2 litros diario;No;3 ó 4 días;0 a 2 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;24,51;NO
+Mujer;21;1,66;59;No;Sí;Casi nunca;3;Siempre;No;1 a 2 litros diario;Sí;5 ó 6 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Automóvil;21,41;NO
+Mujer;20;1,73;67;Sí;Sí;Siempre;3;Siempre;No;1 a 2 litros diario;No;3 ó 4 días;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;22,39;NO
+Mujer;19;1,64;53;Sí;Sí;Siempre;3;Aveces;No;Menos de 1 litro diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;19,71;NO
+Mujer;20;1,62;53;No;Sí;Siempre;de 1 a 2;Aveces;No;Más de 2 litros diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Delgado;No;Transporte publico;20,2;NO
+Mujer;19;1,7;64;Sí;Sí;Siempre;3;Nunca;No;Más de 2 litros diario;Sí;5 ó 6 días;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Transporte publico;22,15;NO
+Mujer;25;1,63;65;No;Sí;Aveces;de 1 a 2;Aveces;No;Más de 2 litros diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;24,46;NO
+Hombre;22;1,6;66;No;Sí;Siempre;3;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;0 a 2 hrs;No consumo bebidas alcholicas;Delgado;No;Bicicleta;25,78;SOBREPESO
+Mujer;20;1,63;64;Sí;Sí;Casi nunca;3;Siempre;No;1 a 2 litros diario;No;No realizo actividad física;Más de 5 hrs;No consumo bebidas alcholicas;Muy obeso;No;Automóvil;24,09;NO
+Hombre;20;1,85;99;Sí;Sí;Aveces;3;Aveces;Sí;Más de 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Con poca frecuencia;Obeso;No;Automóvil;28,93;SOBREPESO
+Mujer;21;1,54;49;Sí;No;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;Sí;3 ó 4 días;0 a 2 hrs;Con poca frecuencia;Delgado;No;Transporte publico;20,66;NO
+Mujer;20;1,64;49;No;No;Siempre;3;Aveces;Sí;1 a 2 litros diario;No;3 ó 4 días;3 a 5 hrs;Con poca frecuencia;Delgado;No;Automóvil;18,22;NO
+Mujer;20;1,57;60;No;Sí;Siempre;3;Aveces;No;Más de 2 litros diario;No;No realizo actividad física;3 a 5 hrs;Con poca frecuencia;Promedio;No;Transporte publico;24,34;NO
+Mujer;20;1,62;52;No;Sí;Siempre;3;Casi siempre;No;Menos de 1 litro diario;No;5 ó 6 días;3 a 5 hrs;No consumo bebidas alcholicas;Promedio;No;Automóvil;19,81;NO
+Hombre;21;1,72;72;Sí;Sí;Siempre;3;Siempre;No;Más de 2 litros diario;Sí;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Automóvil;24,34;NO
+Hombre;21;1,76;78;Sí;Sí;Siempre;de 1 a 2;Aveces;No;1 a 2 litros diario;No;5 ó 6 días;0 a 2 hrs;Con poca frecuencia;Promedio;No;Caminar;25,18;SOBREPESO
+Mujer;20;1,65;75;Sí;Sí;Siempre;de 1 a 2;Aveces;No;1 a 2 litros diario;No;1 ó 2 días;3 a 5 hrs;No consumo bebidas alcholicas;Obeso;No;Transporte publico;27,55;SOBREPESO
+Hombre;20;1,67;78;Sí;No;Aveces;de 1 a 2;Aveces;No;Más de 2 litros diario;No;No realizo actividad física;0 a 2 hrs;Semanalmente;Promedio;No;Automóvil;27,97;SOBREPESO
+Hombre;24;1,79;90;Sí;No;Aveces;3;Aveces;Sí;1 a 2 litros diario;No;1 ó 2 días;0 a 2 hrs;Semanalmente;Promedio;No;Automóvil;28,09;SOBREPESO
+Mujer;18;1,59;47;Sí;Sí;Aveces;de 1 a 2;Aveces;No;1 a 2 litros diario;No;No realizo actividad física;Más de 5 hrs;Con poca frecuencia;Delgado;No;Transporte publico;18,59;NO
