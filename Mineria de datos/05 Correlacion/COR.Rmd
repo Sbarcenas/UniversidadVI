@@ -1,0 +1,21 @@
+---
+title: "COR"
+author: "Sebastian Barcenas"
+date: "11/9/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Matriz de Correlación
+
+
+```{r}
+data = data.frame(read.csv(file="COR.csv",header = TRUE, sep = ";", dec = ","))
+
+cor(data)
+```
+
